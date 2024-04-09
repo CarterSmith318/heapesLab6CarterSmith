@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\carte\OneDrive\Data Structures\heapesLab6\heapesLab6\main.cpp(57,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\carte\OneDrive\Data Structures\heapesLab6\heapesLab6\main.cpp(88,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\carte\OneDrive\Data Structures\heapesLab6\heapesLab6\main.cpp(92,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  heapesLab6.vcxproj -> C:\Users\carte\OneDrive\Data Structures\heapesLab6\x64\Debug\heapesLab6.exe
